@@ -17,4 +17,9 @@ In the future, I’m excited to learn Python and explore AI projects!
 ## Find me on  
 
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meesaajay&show_icons=true&theme=radical)
+### 📊 GitHub Stats:
+
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meesaajay&show_icons=true&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meesaajay&layout=compact&theme=react&hide_border=true)
+
