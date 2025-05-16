@@ -1,14 +1,20 @@
-# Hello, I'm Ajay 👋
+# Hi, I’m Ajay 👋
 
-I am a passionate web developer focused on building practical and efficient applications.  
-Currently, I am learning JavaScript, React, Node.js, and MongoDB.  
-In the near future, I plan to learn Python and work on AI-related projects.
+I’m an aspiring web developer passionate about building things that make life easier.  
+Currently diving deep into JavaScript and the MERN stack.  
 
-- 🎯 Specialized in MERN stack and real-time applications  
-- 💻 Skills include HTML, CSS, JavaScript, React, Node.js, and MongoDB  
-- 📫 Feel free to contact me at: meesaajay97@gmail.com
+In the future, I’m excited to learn Python and explore AI projects!
 
----
+## Skills  
+- JavaScript | React | Node.js | Express | MongoDB  
+- HTML | CSS  
+- Learning Python & AI
 
-### 📈 GitHub Stats  
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meesaajay&show_icons=true&theme=radical)
+## What I'm working on  
+- Web development projects  
+- Improving my coding skills every day
+
+## Find me on  
+
+
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meesaajay&show_icons=true&theme=radical)
